@@ -26,7 +26,7 @@ to Qt.
 
 Qt packages have strange names. Try these for Qt5/6 respectively
 
-# apt install qtbase5-dev qttools5-dev libqt5svg5-dev
+# apt install qtbase5-dev qttools5-dev libqt5svg5-dev qtscript5-dev
 # apt install qt6-base-dev qt6-svg-dev
 
 Development
